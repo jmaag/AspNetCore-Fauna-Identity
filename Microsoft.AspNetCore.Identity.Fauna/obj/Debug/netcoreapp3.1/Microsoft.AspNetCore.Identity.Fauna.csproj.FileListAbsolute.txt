@@ -1,0 +1,9 @@
+C:\Users\uabab\Documents\GitHub\LeulyWeb\Wordpress\Microsoft.AspNetCore.Identity.Fauna\obj\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.Fauna.csprojAssemblyReference.cache
+C:\Users\uabab\Documents\GitHub\LeulyWeb\Wordpress\Microsoft.AspNetCore.Identity.Fauna\obj\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.Fauna.AssemblyInfoInputs.cache
+C:\Users\uabab\Documents\GitHub\LeulyWeb\Wordpress\Microsoft.AspNetCore.Identity.Fauna\obj\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.Fauna.AssemblyInfo.cs
+C:\Users\uabab\Documents\GitHub\LeulyWeb\Wordpress\Microsoft.AspNetCore.Identity.Fauna\obj\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.Fauna.csproj.CoreCompileInputs.cache
+C:\Users\uabab\Documents\GitHub\LeulyWeb\Wordpress\Microsoft.AspNetCore.Identity.Fauna\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.Fauna.deps.json
+C:\Users\uabab\Documents\GitHub\LeulyWeb\Wordpress\Microsoft.AspNetCore.Identity.Fauna\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.Fauna.dll
+C:\Users\uabab\Documents\GitHub\LeulyWeb\Wordpress\Microsoft.AspNetCore.Identity.Fauna\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.Fauna.pdb
+C:\Users\uabab\Documents\GitHub\LeulyWeb\Wordpress\Microsoft.AspNetCore.Identity.Fauna\obj\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.Fauna.dll
+C:\Users\uabab\Documents\GitHub\LeulyWeb\Wordpress\Microsoft.AspNetCore.Identity.Fauna\obj\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.Fauna.pdb
